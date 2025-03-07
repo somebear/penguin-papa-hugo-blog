@@ -1,4 +1,4 @@
-baseURL = 'https://blog.penguinpapa.life/'
+baseURL = 'penguin-papa-hugo-blog.vercel.app'
 languageCode = 'en-us'
 title = '小企鹅爸爸的生活'
 theme = 'paper'
