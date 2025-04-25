@@ -6,8 +6,15 @@
     <description>Recent content on 小企鹅爸爸的生活</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="penguin-papa-hugo-blog.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>为什么画师讨厌AI，而程序员却相反</title>
+      <link>penguin-papa-hugo-blog.vercel.app/posts/why_artist_hate_ai_but_programmer_not/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>penguin-papa-hugo-blog.vercel.app/posts/why_artist_hate_ai_but_programmer_not/</guid>
+      <description>&lt;p&gt;话题来源于在 &lt;a href=&#34;https://v2ex.com/t/1127763&#34;&gt;V2EX上看的帖子&lt;/a&gt;。&#xA;我的回复是：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;绘画作品具有个性，不同作者的画风不同，而且行业鼓励差异性。对绘画来说，AI 拿走了最重要的部分。&#xA;代码没有个性，用户也不关心产品背后的代码是怎么写的，谁写的。大部分代码差异性不大，甚至还有最佳实践。对编程来说，AI 拿走了最无聊的部分。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;这个话题其实和我一直以来在思考的问题有些相通的地方，那就是&lt;strong&gt;作为一个程序员，你觉得你写的代码是你的作品吗&lt;/strong&gt;？&lt;/p&gt;&#xA;&lt;p&gt;我曾经是这么认为的，相信代码可以写的像诗一样，当然也有很多优秀的程序员达到了这个境界。但是整个业界并不像其他创意工作者一样追求个性化，编程是一个工程类的工作，充斥着最佳实践。&#xA;程序员绝大部分的工作是无法被用户看到的，用户能看到的地方大多出自UI设计师和产品经理之手。如果你是在一个公司做 App 开发，那么这个 App 更多被认为是产品经理的作品，而不是你的。&lt;/p&gt;&#xA;&lt;p&gt;突然想通了为什么程序员都向往做独立开发者。独立开发可以夺回自己在公司无法得到的主体性。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>像教孩子一样教AI</title>
       <link>penguin-papa-hugo-blog.vercel.app/posts/teach_ai_like_child/</link>
