@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/ai/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/tags/ai/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/posts/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/tags/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/why_artist_hate_ai_but_programmer_not/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/posts/why_artist_hate_ai_but_programmer_not/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/teach_ai_like_child/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/posts/teach_ai_like_child/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/new_blog/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/posts/new_blog/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://penguin-papa-hugo-blog.vercel.app/categories/</loc>
   </url>
 </urlset>
